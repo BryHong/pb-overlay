@@ -68,3 +68,7 @@ footer { border-top: 1px solid var(--line); padding-block: .8rem; font-size: .9r
   figcaption { padding-bottom: 1.1rem; }
   .replay { padding-block: 2.5rem; }
 }
+
+.policy-date { margin-bottom: .65rem; color: var(--muted); font-size: .92rem; }
+.help-row p + p { margin-top: 1rem; }
+footer { flex-wrap: wrap; }
